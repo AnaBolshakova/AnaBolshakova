@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### Hi there!
 ![Hi there!](https://skirtingboardsdirect.com/wp-content/uploads/2021/03/shutterstock_1270572721.jpg)
 
 Hi, I'm Anasatsiia from Russia and I'm currenly learning to become an Android Developer. I used to be an English and German teacher. After 6 months of living in Germany I decided to radically change the direction of my activity and following footsteps of my father and uncle to devote myself to computer technology. Learning foreign languages is still the bigegst passion of mine, and I hope to find my vocation in programming languages as well and do something meaningful for other people.
