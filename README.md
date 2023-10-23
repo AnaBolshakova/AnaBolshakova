@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Anastasiia from Russia and I'm currenly learning to become an Android Developer.
+Hi, I'm Anastasiia from Russia and I'm an Android Developer in making.
 
 Skills: Java / Kotlin
 
