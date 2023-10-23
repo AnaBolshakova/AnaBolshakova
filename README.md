@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Anastasiia from Russia and I'm currenly learning to become an Android Developer. I'm also studying at the department of foreign languages (English and German) and have a 3-years experience of tutoring and teaching children and mature students. After 6 months of living in Germany I decided to radically change the direction of my activity and, following the footsteps of my father, to devote myself to computer technology. Learning foreign languages is still the bigegst passion of mine, and I hope to find my vocation in programming languages as well and do something meaningful for other people.
+Hi, I'm Anastasiia from Russia and I'm currenly learning to become an Android Developer.
 
 Skills: Java / Kotlin
 
